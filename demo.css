@@ -1,0 +1,14 @@
+video {
+    max-width: 50%;
+    margin: 0 auto;
+    display: block;
+
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
